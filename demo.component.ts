@@ -10,6 +10,5 @@ export class NameComponent implements OnInit {
     }
 
     ngOnInit() {
-
     }
 }
