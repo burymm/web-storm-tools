@@ -10,6 +10,6 @@ export class NameComponent implements OnInit {
     }
 
     ngOnInit() {
-        const i = 100;
+
     }
 }
