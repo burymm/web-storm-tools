@@ -4,11 +4,15 @@
   "description": "",
   "main": "main.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "npm start"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "tslint-config-airbnb": "^5.11.2"
+  },
+  "dependencies": {
+    "@angular/cli": "^8.3.19",
+    "@angular/core": "^8.2.14"
   }
 }
